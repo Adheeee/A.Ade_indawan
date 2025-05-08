@@ -1,7 +1,7 @@
 ## <p align="center" style="margin-top: 0;">SISTEM RESERVASI HOTEL</p>
 
 <p align="center">
-  <img src="/public/LogoUnsulbar.png" width="300" alt="LogoUnsulbar" />
+  <img src="/public/LogoUnsulbar 1.png" width="300" alt="LogoUnsulbar" />
 </p>
 
 ### <p align="center">A.ADE INDAWAN</p>
